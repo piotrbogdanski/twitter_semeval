@@ -40,7 +40,9 @@ Manual eveluation of most common tokens seems to suggest that there were no sign
 
 ### Hyperparameter optimization and testing results
 
-|       |   NaiveBayes-Count |   MaxEnt-Count |   SVC-Count |   KNN-Tfidf | |:------|-------------------:|---------------:|------------:|------------:|
+
+|       |   NaiveBayes-Count |   MaxEnt-Count |   SVC-Count |   KNN-Tfidf | 
+|:------|-------------------:|---------------:|------------:|------------:|
 | test1 |           0.571585 |       0.554163 |    0.630536 |    0.387227 |
 | test2 |           0.568195 |       0.575681 |    0.622686 |    0.381052 |
 | test3 |           0.554254 |       0.544365 |    0.590027 |    0.379937 |
